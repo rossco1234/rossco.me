@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+[comment]: <> (## Welcome to GitHub Pages)
 
-You can use the [editor on GitHub](https://github.com/rossco1234/rossco.me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[comment]: <> (You can use the [editor on GitHub]&#40;https://github.com/rossco1234/rossco.me/edit/gh-pages/index.md&#41; to maintain and preview the content for your website in Markdown files.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[comment]: <> (Whenever you commit to this repository, GitHub Pages will run [Jekyll]&#40;https://jekyllrb.com/&#41; to rebuild the pages in your site, from the content in your Markdown files.)
 
-### Markdown
+[comment]: <> (### Markdown)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[comment]: <> (Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
 
-```markdown
-Syntax highlighted code block
+[comment]: <> (```markdown)
 
-# Header 1
-## Header 2
-### Header 3
+[comment]: <> (Syntax highlighted code block)
 
-- Bulleted
-- List
+[comment]: <> (# Header 1)
 
-1. Numbered
-2. List
+[comment]: <> (## Header 2)
 
-**Bold** and _Italic_ and `Code` text
+[comment]: <> (### Header 3)
 
-[Link](url) and ![Image](src)
-```
+[comment]: <> (- Bulleted)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[comment]: <> (- List)
 
-### Jekyll Themes
+[comment]: <> (1. Numbered)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rossco1234/rossco.me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[comment]: <> (2. List)
 
-### Support or Contact
+[comment]: <> (**Bold** and _Italic_ and `Code` text)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[comment]: <> ([Link]&#40;url&#41; and ![Image]&#40;src&#41;)
+
+[comment]: <> (```)
+
+[comment]: <> (For more details see [GitHub Flavored Markdown]&#40;https://guides.github.com/features/mastering-markdown/&#41;.)
+
+[comment]: <> (### Jekyll Themes)
+
+[comment]: <> (Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]&#40;https://github.com/rossco1234/rossco.me/settings/pages&#41;. The name of this theme is saved in the Jekyll `_config.yml` configuration file.)
+
+[comment]: <> (### Support or Contact)
+
+[comment]: <> (Having trouble with Pages? Check out our [documentation]&#40;https://docs.github.com/categories/github-pages-basics/&#41; or [contact support]&#40;https://support.github.com/contact&#41; and we’ll help you sort it out.)
+# hi im ross
+
+i like making things :)
+
+© ross1234 | Template by GitHubPages | Designed by GateLogic
